@@ -2,7 +2,7 @@
     background-color: #c1e2b3;
 }
 
-#collapsable-nav {
+#collapsible-nav {
     background-color: #985f0d;
 }
 
@@ -26,4 +26,10 @@ h1 {
 
 h3 {
     margin-top: 0;
+}
+
+@media (min-width: 768px) {
+    #collapsible-nav {
+        background-color: #c1e2b3;
+    }
 }

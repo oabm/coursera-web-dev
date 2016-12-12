@@ -1,5 +1,9 @@
-.filler-text, .navbar, #nav-list {
+.filler-text, .navbar {
     background-color: #c1e2b3;
+}
+
+#collapsable-nav {
+    background-color: #985f0d;
 }
 
 .filler-text {
